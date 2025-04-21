@@ -23,7 +23,7 @@
 ### Prerequisites
 
 Make sure you have the following installed:
-
+Also make sure you check the Requirement.txt file so that you have neccessary versions required
 - Python 3.9+
 - pip (Python package installer)
 - Git (optional, if using version control)
